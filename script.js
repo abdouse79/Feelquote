@@ -1,7 +1,7 @@
 function searchLyrics() {
   var searchInput = document.getElementById("searchInput");
   var query = searchInput.value.trim();
-  var accessToken = "YOUR_ACCESS_TOKEN"; // Replace with your actual access token
+  var accessToken = "U0JutdWkgI8x2wwwXkwXDnWJYzeWiurd5xwf_IThdhnRb3-czv6kYkkaQZV-0AeE"; // Replace with your actual access token
 
   var url = "https://api.genius.com/search?q=" + encodeURIComponent(query);
   fetchLyrics(url, accessToken);
