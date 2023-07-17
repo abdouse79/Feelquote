@@ -1,0 +1,26 @@
+.container {
+  text-align: center;
+  margin-top: 100px;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+input {
+  width: 300px;
+  height: 30px;
+  margin: 10px;
+  padding: 5px;
+  font-size: 16px;
+}
+
+button {
+  height: 30px;
+  font-size: 16px;
+}
+
+#quoteContainer {
+  margin-top: 20px;
+  font-size: 20px;
+}
