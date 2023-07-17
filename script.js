@@ -38,7 +38,7 @@ function fetchLyrics(accessToken) {
 
   fetch(url, {
     headers: {
-      "Authorization": "Bearer " + accessToken
+      "Authorization": "Bearer " + U0JutdWkgI8x2wwwXkwXDnWJYzeWiurd5xwf_IThdhnRb3-czv6kYkkaQZV-0AeE
     }
   })
     .then(function(response) {
