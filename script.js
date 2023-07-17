@@ -5,7 +5,7 @@ function searchLyrics() {
 
   fetch(url, {
     headers: {
-      "Authorization": "Bearer U0JutdWkgI8x2wwwXkwXDnWJYzeWiurd5xwf_IThdhnRb3-czv6kYkkaQZV-0AeE"
+      "Authorization": "U0JutdWkgI8x2wwwXkwXDnWJYzeWiurd5xwf_IThdhnRb3-czv6kYkkaQZV-0AeE"
     }
   })
     .then(function(response) {
